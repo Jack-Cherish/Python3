@@ -1,4 +1,4 @@
-#Topic		:	输入一行字符，分别统计出其中英文字母、
+#Topic		:	输入一行字符，分别统计出其中英文字母,
 #			空格和其他字符的个数
 #File Name	:	count_string.py
 #Author		:	Jack Cui
