@@ -3,7 +3,7 @@
 #File Name	:	count_string.py
 #Author		:	Jack Cui
 #Created 	:	1 April 2016
-str = input('please input a string:\n')
+str = input('please input a string:')
 letter = 0
 space = 0
 digit = 0
