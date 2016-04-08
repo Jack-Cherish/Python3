@@ -1,4 +1,4 @@
-#tpoic          :       汉诺塔   
+#Topic          :       汉诺塔   
 #File Name      :       Hanoi.py
 #Author         :       Jack Cui
 #Created        :       7 April 2016
