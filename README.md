@@ -9,3 +9,4 @@ Day3:PerfectNumber.py---题目：编程找出1000以内的所有完全数<br>
 Day4:Hanoi.py---------------题目：汉诺塔<br>
 Day5:Triangle.py------------题目：杨辉三角<br>
 Day6:Diamond.py-----------题目：输出菱形图案<br>
+Day7:Reduce.py-------------题目：reduce和lambda的练习题<br>
